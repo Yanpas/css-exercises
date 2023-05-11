@@ -1,0 +1,13 @@
+.btn_good, .btn_bad {
+	font-size: 28px;
+	font-family: Helvetica, 'Times New Roman', sans-serif;
+}
+
+.btn_good {
+	color: white;
+	background-color: black;
+}
+
+.btn_bad {
+	background-color: yellow;
+}
